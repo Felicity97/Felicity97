@@ -1,62 +1,73 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Felicia 👋
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
-
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EFE7C&center=true&vCenter=true&width=650&lines=AI-Driven+Data+Analyst;Excel+%7C+Power+BI+%7C+SQL;I+Automate+Data+Workflows+Using+AI;Transforming+Data+Into+Insights+%26+Dashboards" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+## 👩‍💻 About Me  
+I'm an **AI-powered Data Analyst** who helps businesses unlock insights faster by combining:
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+- **Strong analytics skills:** Excel, Power BI, SQL  
+- **AI automation** to reduce repetitive tasks  
+- **Insightful dashboards** for faster decision-making  
+- **Clean data workflows** that improve speed and accuracy  
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+I enjoy simplifying complex datasets and building intelligent dashboards that communicate insights clearly.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+---
 
-## 🌱 Currently Learning 
+## 📐 What I'm Currently Working On  
+- Automating analytics workflows using **AI agents + ChatGPT**  
+- Building an **Excel & Power BI Sales Dashboard**  
+- Improving SQL skills with real-world datasets  
+- Creating AI-enhanced data analysis projects for my portfolio  
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+---
 
-## 🛠️ Technical Skillset
+## 📚 Currently Learning  
+- Power BI DAX Optimization  
+- AI-driven reporting workflows  
+- SQL performance optimization  
+- Python for basic analytics automation  
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+---
 
-#### Data Analysis & Visualization
+## 🛠️ Technical Skillset  
+
+### 📊 Data Analysis & Visualization  
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Expert-green?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-Intermediate-yellow?style=flat&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-#### Programming & Automation
+### 🤖 AI & Automation  
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/ChatGPT-Automation-black?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-Workflow_Automation-purple?style=flat" />
 </p>
 
-#### Business Intelligence & Analytics
+### 💻 Tools & Programming  
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Beginner-blue?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%2FGitHub-Version_Control-black?style=flat&logo=github" />
 </p>
+
+---
+
+## 📁 Featured Projects  
+- **📊 HR Automated Insights Dashboard (AI + Power BI)**  
+- **📈 Excel Sales Dashboard with Automated KPIs**  
+- **🤖 AI-Assisted Data Cleaning Workflow (ChatGPT + Excel)**  
+- **📉 SQL Sales Performance Query Optimization**
+
+---
+
+## 🎯 Career Goal  
+To become a **Data Analyst + AI Automation Specialist**, creating faster, smarter, and more efficient data solutions for businesses.
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
