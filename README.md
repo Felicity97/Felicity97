@@ -1,8 +1,7 @@
 ## Hi there, I'm Felicia 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EFE7C&center=true&vCenter=true&width=650&lines=AI-Driven+Data+Analyst;Excel+%7C+Power+BI+%7C+SQL;I+Automate+Data+Workflows+Using+AI;Transforming+Data+Into+Insights+%26+Dashboards" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EFE7C&center=true&vCenter=true&width=650&lines=AI-Driven+Data+Analyst;Excel+%7C+Power+BI+%7C+SQL;I+Automate+Data+Workflows+Using+AI;Transforming+Data+Into+Insights+%26+Dashboards"
 
 ---
 
